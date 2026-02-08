@@ -68,5 +68,4 @@ GitHub: Yostina-Romani
 **Notes**
 This project was created as a learning exercise to practice C# WinForms development and basic game logic.
 
----
-ها إزاي وأنا أظبطها فورًا 💙
+---💙
